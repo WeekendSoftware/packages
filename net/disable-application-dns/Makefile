@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2018 Gregory L. Dietsche <Gregory.Dietsche@cuw.edu>
+# Copyright (c) 2021 Gregory L. Dietsche <Gregory.Dietsche@cuw.edu>
 # This is free software, licensed under the MIT License
 #
 
